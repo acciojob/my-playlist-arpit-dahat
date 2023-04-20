@@ -1,13 +1,26 @@
 /*  your css code here. If applicable */
-https://storage.googleapis.com/acciojob-open-file-collections/my-playlist.png
+/* https://storage.googleapis.com/acciojob-open-file-collections/my-playlist.png */
 
-
-	
 body{
-    text-align: center;
-	body background color : #cccccc;
-	border: 1px solid;
+	text-align: center;
+	background-color: #cccccc;
 }
-border{
-	
+
+
+.player_one{
+	text-align: left;
+	border: 1px solid;
+	padding: 20px;
+	background-color: white;
+}
+
+.player_two{
+	background-color: white;
+	border: 1px solid;
+	padding: 10px;
+	margin: 0px;
+	border-radius: 5px;
+	border-width: 1px;
+	margin-left: 550px;
+	margin-right: 550px;
 }
